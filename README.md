@@ -1,0 +1,2 @@
+# ec-storages
+Enjoy!
